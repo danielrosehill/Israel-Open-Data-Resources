@@ -1,6 +1,6 @@
 # Israel-Open-Data-Resources
 
-A curated index of open-source repositories, datasets, and APIs related to Israeli open data — government catalogues, scrapers, parsers, MCP servers, and downstream utilities.
+An index of open-source repositories, datasets, and APIs related to Israeli open data — government catalogues, scrapers, parsers, MCP servers, and downstream utilities.
 
 ## Contents
 
@@ -199,7 +199,7 @@ Point-in-time imports of the [data.gov.il](https://data.gov.il) CKAN catalogue w
 
 | API | Description | Endpoint / Notes |
 |---|---|---|
-| **data.gov.il (CKAN)** | National open-data portal — 1,194 datasets, 61 publishing orgs. No English titles in API; see `060526/` for the curated English index. | [`/api/3/action/package_search`](https://data.gov.il/api/3/action/package_search?rows=5) · [docs in snapshot](./060526/README.md#api-endpoints) |
+| **data.gov.il (CKAN)** | National open-data portal — 1,194 datasets, 61 publishing orgs. No English titles in API; see `060526/` for the English index. | [`/api/3/action/package_search`](https://data.gov.il/api/3/action/package_search?rows=5) · [docs in snapshot](./060526/README.md#api-endpoints) |
 | **CBS House Price Index** | Central Bureau of Statistics index catalog | [api.cbs.gov.il/Index/Catalog/Catalog?lang=en](https://api.cbs.gov.il/Index/Catalog/Catalog?lang=en) |
 | **Nadlan.gov.il** | Israeli real-estate transactions — no official API; community wrappers exist (see Nadlan repos above) | https://www.nadlan.gov.il/ |
 
