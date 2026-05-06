@@ -36,6 +36,15 @@ Point-in-time imports of the [data.gov.il](https://data.gov.il) CKAN catalogue w
 | Snapshot | Datasets | Orgs | Index |
 |---|---:|---:|---|
 | [`060526/`](./060526/) (2026-05-06) | 1,194 | 61 | [English README](./060526/README.md) |
+| [`pdf-catalogue/`](./pdf-catalogue/) (2026-05-06) | 1,194 | 60 | 659-page bilingual PDF + raw JSON + sample rows |
+
+### Companion artefacts
+
+| Artefact | Where | Notes |
+|---|---|---|
+| Bilingual PDF catalogue | [HuggingFace dataset](https://huggingface.co/datasets/danielrosehill/Israel-Open-Data-Catalogue) | Date-stamped snapshot folders with PDF, raw CKAN JSON, samples, and translations |
+| Translation mapping (HE↔EN) | [Israel-Open-Data-Catalogue-Translations](https://github.com/danielrosehill/Israel-Open-Data-Catalogue-Translations) | Standalone repo — drop-in `translations.json` keyed by dataset slug, MIT-licensed |
+| GitHub release with all assets | [snapshot-2026-05-06](https://github.com/danielrosehill/Israel-Open-Data-Resources/releases/tag/snapshot-2026-05-06) | PDF + JSON downloads attached |
 
 ---
 
