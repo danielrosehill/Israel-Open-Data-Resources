@@ -60,6 +60,7 @@ Point-in-time imports of the [data.gov.il](https://data.gov.il) CKAN catalogue w
 | [Skills-IL Government Services](https://github.com/skills-il/government-services) | Israeli government services skills | ![](https://img.shields.io/github/stars/skills-il/government-services?style=social) |
 | [Skills-IL Tax & Finance](https://github.com/skills-il/tax-and-finance) | Israeli tax & finance skills (mas rechisha etc.) | ![](https://img.shields.io/github/stars/skills-il/tax-and-finance?style=social) |
 | [Databricks Gov Data App](https://github.com/Shaked-Gal/Databricks-Gov-Data-App) | Databricks app over Israeli government data | ![](https://img.shields.io/github/stars/Shaked-Gal/Databricks-Gov-Data-App?style=social) |
+| [govil.ai](https://govil.ai/) | Hebrew explainer pages with interactive charts/maps for every data.gov.il dataset, written daily by an AI agent and validated against the source data | — |
 | [UP360 MCP](https://github.com/eliko86/up360mcp) | UP360 MCP server | ![](https://img.shields.io/github/stars/eliko86/up360mcp?style=social) |
 
 ## Statistics (CBS)
