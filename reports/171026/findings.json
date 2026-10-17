@@ -1,0 +1,1597 @@
+{
+  "generated": "2026-10-17",
+  "research": "Claude Opus 5.5",
+  "initial_index": "Daniel Rosehill",
+  "counts": {
+    "total": 176,
+    "initial": 91,
+    "added": 85,
+    "removed": 3
+  },
+  "entries": [
+    {
+      "name": "Airport Data Pipeline",
+      "url": "https://github.com/Ofigu/airport-data-pipeline",
+      "description": "Israeli airport data pipeline",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-02-08"
+    },
+    {
+      "name": "ANYWAY",
+      "url": "https://github.com/data-for-change/anyway",
+      "description": "Road accidents and fatalities map and platform (originally a Hasadna project)",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 85 · last push 2026-09-04"
+    },
+    {
+      "name": "Arnona Israel",
+      "url": "https://github.com/mikey641/arnona-israel",
+      "description": "Dataset, API and scraper of municipal Arnona (property tax) rates per m²",
+      "category": "Budget & Public Spending",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 0 · last push 2026-10-09"
+    },
+    {
+      "name": "Asher MCP",
+      "url": "https://github.com/shlomiuziel/asher-mcp",
+      "description": "MCP over israeli-bank-scrapers",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 14 · last push 2025-11-20"
+    },
+    {
+      "name": "Awesome Red Alerts",
+      "url": "https://github.com/danielrosehill/Awesome-Red-Alerts",
+      "description": "Curated list of red alert (Tzeva Adom) notification projects",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 2 · last push 2026-04-06"
+    },
+    {
+      "name": "Bank of Israel Monetary Statements",
+      "url": "https://huggingface.co/datasets/gtfintechlab/bank_of_israel",
+      "description": "Annotated BOI monetary-policy communications (hawkish/dovish)",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Bank of Israel Public API — exchange rates",
+      "url": "https://boi.org.il/PublicApi/GetExchangeRates",
+      "description": "Current representative exchange rates, JSON",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned JSON (lastUpdate 2026-10-16). Undocumented."
+    },
+    {
+      "name": "Bank of Israel Series Database (SDMX)",
+      "url": "https://edge.boi.gov.il/FusionEdgeServer/sdmx/v2/data/dataflow/BOI.STATISTICS/EXR/1.0/RER_USD_ILS?startperiod=2026-10-01&format=csv",
+      "description": "BOI statistical series (FX, interest, etc.) via SDMX v2 REST; CSV/XML",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned daily USD/ILS CSV. Dataflow index at /sdmx/v2/structure/dataflow/BOI.STATISTICS. BOI website itself is behind a Radware bot-wall."
+    },
+    {
+      "name": "Better Rail",
+      "url": "https://github.com/better-rail/app",
+      "description": "Open-source alternative client for Israel Railways timetables and live data",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 311 · last push 2026-10-17"
+    },
+    {
+      "name": "BOI Exchange Rates",
+      "url": "https://github.com/Gugulator/boi_exchange_rates",
+      "description": "Home Assistant integration for Bank of Israel exchange rates",
+      "category": "Currency & FX",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 2 · last push 2026-06-16"
+    },
+    {
+      "name": "BudgetKey (Open Budget)",
+      "url": "https://github.com/OpenBudget/BudgetKey",
+      "description": "Main repo of the Open Budget project opening the Israeli state budget",
+      "category": "Budget & Public Spending",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 77 · last push 2026-02-17"
+    },
+    {
+      "name": "BudgetKey Data Pipelines",
+      "url": "https://github.com/OpenBudget/budgetkey-data-pipelines",
+      "description": "Pipelines ingesting budget, procurement, supports and entity data",
+      "category": "Budget & Public Spending",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 8 · last push 2026-10-16"
+    },
+    {
+      "name": "BudgetKey MCP",
+      "url": "https://github.com/OpenBudget/budgetkey-mcp",
+      "description": "MCP server exposing Open Budget data to LLM agents",
+      "category": "Budget & Public Spending",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 12 · last push 2026-07-30"
+    },
+    {
+      "name": "Calcala Israel",
+      "url": "https://github.com/idanmev/calcala-israel",
+      "description": "Israeli economics content site",
+      "category": "Statistics (CBS)",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "REMOVED from index — 404 on 2026-10-17 (owner exists, repo gone)"
+    },
+    {
+      "name": "Cashpilot",
+      "url": "https://github.com/danielcashpilot/cashpilot",
+      "description": "Generic cashflow tool",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-04-14"
+    },
+    {
+      "name": "Caspion",
+      "url": "https://github.com/brafdlog/caspion",
+      "description": "Personal-finance app with bank scrape",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 269 · last push 2026-10-17"
+    },
+    {
+      "name": "CBS House Price Index",
+      "url": "https://api.cbs.gov.il/Index/Catalog/Catalog?lang=en",
+      "description": "Central Bureau of Statistics index catalog",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Connection reset from all three routes on 2026-10-17; CBS appears to be refusing these egresses today rather than the endpoint being retired."
+    },
+    {
+      "name": "CBS Price Index data API",
+      "url": "https://api.cbs.gov.il/index/data/price?id=120010&format=json&download=false&last=1",
+      "description": "CPI and other price-index values by index code, JSON",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Data endpoint paired with the listed Index Catalog. Same connection-reset result on 2026-10-17; unconfirmed."
+    },
+    {
+      "name": "CBS Series API",
+      "url": "https://apis.cbs.gov.il/series/catalog/level?id=1&format=json&download=false",
+      "description": "CBS time-series catalogue and data (population, trade, energy…), JSON/XML",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Connection reset from laptop, WebFetch and residenceserver on 2026-10-17 — as was the already-listed CBS Index API. Research agent reported data earlier the same day; treat as unconfirmed. Docs: cbs.gov.il/he/Pages/Api-interface.aspx."
+    },
+    {
+      "name": "Cheshbeshbon",
+      "url": "https://github.com/ohadbarr1/cheshbeshbon",
+      "description": "Israeli bookkeeping",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-01"
+    },
+    {
+      "name": "COVID-19 Vaccine Efficacy",
+      "url": "https://github.com/ecampau/COVID-19-Vaccine-Efficacy",
+      "description": "COVID-19 vaccine efficacy analysis (incl. Israeli data)",
+      "category": "Health",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-01-11"
+    },
+    {
+      "name": "Currency Exchange Rates",
+      "url": "https://github.com/attogram/currency-exchange-rates",
+      "description": "Currency exchange rates dataset",
+      "category": "Currency & FX",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 8 · last push 2026-07-12"
+    },
+    {
+      "name": "danielrosehill/Jerusalem-Air-Quality-Shabbat",
+      "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Air-Quality-Shabbat",
+      "description": "Jerusalem air-quality readings on Shabbat — derived from Israeli environmental monitoring data.",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Data Israel",
+      "url": "https://github.com/LiorVainer/data-israel",
+      "description": "Israeli data utilities",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 130 · last push 2026-05-13"
+    },
+    {
+      "name": "data.gov.il (CKAN)",
+      "url": "https://data.gov.il/api/3/action/package_search?rows=5",
+      "description": "National open-data portal — 1,194 datasets, 61 publishing orgs. No English titles in API; see `060526/` for the English index.",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live CKAN v3. See snapshot 060526/ and the Changelog repo."
+    },
+    {
+      "name": "Data.gov.il MCP",
+      "url": "https://github.com/DavidOsherdiagnostica/data-gov-il-mcp",
+      "description": "MCP server for data.gov.il",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 110 · last push 2026-10-12"
+    },
+    {
+      "name": "Data.gov.il MCP",
+      "url": "https://github.com/eyalkatzaf/data-gov-il-mcp",
+      "description": "MCP server for data.gov.il",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-05-05"
+    },
+    {
+      "name": "Databricks Gov Data App",
+      "url": "https://github.com/Shaked-Gal/Databricks-Gov-Data-App",
+      "description": "Databricks app over Israeli government data",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2025-12-27"
+    },
+    {
+      "name": "DataCity CKAN DGP",
+      "url": "https://github.com/hasadna/datacity-ckan-dgp",
+      "description": "Automation loading Israeli municipal datasets into DataCity CKAN",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 0 · last push 2026-04-01"
+    },
+    {
+      "name": "Datagov MCP",
+      "url": "https://github.com/aviveldan/datagov-mcp",
+      "description": "MCP server for data.gov.il",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 146 · last push 2026-04-22"
+    },
+    {
+      "name": "DiraAi",
+      "url": "https://github.com/Idantall/DiraAi",
+      "description": "Madlan-style listings browser",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-03-11"
+    },
+    {
+      "name": "Diralottery",
+      "url": "https://github.com/ddark-il/diralottery",
+      "description": "Dira BeHanaha (Mehir Lamishtaken) lottery tracker",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-10-16"
+    },
+    {
+      "name": "EconFin Functions",
+      "url": "https://github.com/107SBakst/econfin_functions",
+      "description": "Israeli econ/finance helper functions",
+      "category": "Statistics (CBS)",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-04-03"
+    },
+    {
+      "name": "Exchange Rate Tracker",
+      "url": "https://github.com/Avigail3648/Exchange-rate-tracker",
+      "description": "Exchange rate tracker",
+      "category": "Currency & FX",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-02-02"
+    },
+    {
+      "name": "Find Apartments",
+      "url": "https://github.com/cxt9/find-apartments",
+      "description": "Apartment finder",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-04-13"
+    },
+    {
+      "name": "Finparse",
+      "url": "https://github.com/shustinm/finparse",
+      "description": "Bank scrapers → Firefly III",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2025-07-07"
+    },
+    {
+      "name": "fluhus/prices",
+      "url": "https://github.com/fluhus/prices",
+      "description": "Go tool collecting and parsing supermarket price files",
+      "category": "Supermarket Prices",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 8 · last push 2018-01-22"
+    },
+    {
+      "name": "Gov Nadlan Fetcher",
+      "url": "https://github.com/jmpfar/gov-nadlan-fetcher",
+      "description": "Wraps nadlan.gov.il internal JSON endpoints",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2023-08-12"
+    },
+    {
+      "name": "GovMap API",
+      "url": "https://api.govmap.gov.il/docs/intro",
+      "description": "National map portal API: JS/URL functions, search, layer IDs",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Docs site loads (Hebrew)."
+    },
+    {
+      "name": "GovScraper (Letz HaMimshal)",
+      "url": "https://github.com/zomer-g/letz-hamimshal-extension",
+      "description": "Browser extension bulk-downloading open datasets from gov.il",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 4 · last push 2026-09-17"
+    },
+    {
+      "name": "Haifa Open Data (CKAN)",
+      "url": "https://opendata.haifa.muni.il/api/3/action/package_list",
+      "description": "Haifa municipal CKAN: accidents, budget, businesses…",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Standard CKAN v3; returned package list."
+    },
+    {
+      "name": "Hebrew RAG Real-Estate",
+      "url": "https://github.com/oshritmau/hebrew-rag-realestate",
+      "description": "Hebrew RAG over real-estate data",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-08-04"
+    },
+    {
+      "name": "IL Bank MCP",
+      "url": "https://github.com/glekner/il-bank-mcp",
+      "description": "Israeli bank MCP server",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 13 · last push 2025-06-13"
+    },
+    {
+      "name": "il.cbs.muni (R)",
+      "url": "https://github.com/cran/il.cbs.muni",
+      "description": "R package for CBS municipal data",
+      "category": "Statistics (CBS)",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-02-13"
+    },
+    {
+      "name": "ILSC Data",
+      "url": "https://github.com/jschler/ILSC_Data",
+      "description": "Israeli Supreme Court data",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-02-18"
+    },
+    {
+      "name": "IMS city forecasts (XML)",
+      "url": "https://ims.gov.il/sites/default/files/ims_data/xml_files/isr_cities.xml",
+      "description": "Israel Meteorological Service city forecast feed, no token",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned ~30 KB XML."
+    },
+    {
+      "name": "IMS Envista observations API",
+      "url": "https://api.ims.gov.il/v1/envista/stations",
+      "description": "10-minute station observations; token from IMS",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "401 without token — endpoint live. Terms: ims.gov.il/en/ObservationDataAPI."
+    },
+    {
+      "name": "IMS Home Assistant Component",
+      "url": "https://github.com/GuyKh/ims-custom-component",
+      "description": "Israel Meteorological Service integration for Home Assistant",
+      "category": "Weather & Climate",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 61 · last push 2026-10-15"
+    },
+    {
+      "name": "iplan ArcGIS REST",
+      "url": "https://ags.iplan.gov.il/arcgisiplan/rest/services?f=json",
+      "description": "Planning Administration public planning layers",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned folder list (PlanningPublic, Utilities)."
+    },
+    {
+      "name": "Iran–Israel War 2026 OSINT",
+      "url": "https://huggingface.co/datasets/danielrosehill/Iran-Israel-War-2026",
+      "description": "OSINT dataset of Iranian missile and drone attack waves",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Iran–Israel War 2026 OSINT Data",
+      "url": "https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data",
+      "description": "Structured data on Iranian aerial attacks on Israel and others, 2024–present",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 16 · last push 2026-03-27"
+    },
+    {
+      "name": "Israel Alerting Zones",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Alerting-Zones",
+      "description": "Pikud HaOref alerting zones (Hebrew names as used by the HFC)",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Israel Alerts Data",
+      "url": "https://github.com/dleshem/israel-alerts-data",
+      "description": "Israeli alerts (Pikud HaOref) historical data",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 19 · last push 2026-10-10"
+    },
+    {
+      "name": "Israel COVID-19 Data",
+      "url": "https://github.com/idandrd/israel-covid19-data",
+      "description": "Charts and data on COVID-19 spread in Israel",
+      "category": "Health",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 46 · last push 2020-06-03"
+    },
+    {
+      "name": "Israel Doctor Data",
+      "url": "https://github.com/MatanEcon/israel-doctor-data",
+      "description": "Israeli physicians dataset",
+      "category": "Health",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-03-30"
+    },
+    {
+      "name": "Israel Elections Data Analysis",
+      "url": "https://github.com/AriehA1995/israel-elections-data-analysis",
+      "description": "Israeli elections data analysis",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-12-18"
+    },
+    {
+      "name": "Israel Energy Data",
+      "url": "https://github.com/nzo-heschel/israel-energy-data",
+      "description": "Israeli energy sector data",
+      "category": "Energy & Environment",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-08-17"
+    },
+    {
+      "name": "Israel Geolocation",
+      "url": "https://github.com/akivaschiff/israel-geolocation",
+      "description": "Israel geolocation utilities",
+      "category": "Geospatial & Land",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-12-14"
+    },
+    {
+      "name": "Israel Housing Finder",
+      "url": "https://github.com/TCyberChef/israel-housing-finder",
+      "description": "Israel housing finder",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-25"
+    },
+    {
+      "name": "Israel Housing Price Prediction",
+      "url": "https://github.com/shualilaw1-commits/israel-housing-price-prediction",
+      "description": "Israel housing price prediction",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-12-24"
+    },
+    {
+      "name": "Israel Land Authority tenders (Michrazim)",
+      "url": "https://apps.land.gov.il/MichrazimSite/api/SearchApi/Search",
+      "description": "Land tender search API behind the Michrazim site",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "POST {} returned ~4.5 MB JSON. Undocumented; paths from site JS."
+    },
+    {
+      "name": "Israel Municipal Waste Dashboard",
+      "url": "https://github.com/adina-paley/waste-dashboard",
+      "description": "Per-authority recycling and landfill figures",
+      "category": "Energy & Environment",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 1 · last push 2026-08-25"
+    },
+    {
+      "name": "Israel Municipalities Polygons",
+      "url": "https://github.com/idoivri/israel-municipalities-polygons",
+      "description": "GeoJSON boundary polygons for Israeli municipalities",
+      "category": "Geospatial & Land",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 10 · last push 2016-07-06"
+    },
+    {
+      "name": "Israel Nadlan Data",
+      "url": "https://github.com/AdanimInstitue/israel-nadlan-data",
+      "description": "Israeli real-estate (Nadlan) dataset",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Not checked"
+    },
+    {
+      "name": "Israel Nadlan Data Collector",
+      "url": "https://github.com/AdanimInstitue/israel-nadlan-data-collector",
+      "description": "Collector for Israeli real-estate (Nadlan) data",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Not checked"
+    },
+    {
+      "name": "Israel Projects Index",
+      "url": "https://github.com/danielrosehill/Israel-Projects-Index",
+      "description": "Master index of Israel-related repositories, datasets, and Hugging Face spaces.",
+      "category": "Contributing",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-09-01"
+    },
+    {
+      "name": "Israel Public Transport API",
+      "url": "https://github.com/benyaming/israel-public-transport-api",
+      "description": "Python wrapper for Ministry of Transport real-time SIRI data",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 8 · last push 2026-06-30"
+    },
+    {
+      "name": "Israel Shelters Database",
+      "url": "https://github.com/dev-symbol/Israel-Shelters-Databas",
+      "description": "Israel public shelters database",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 4 · last push 2026-03-05"
+    },
+    {
+      "name": "Israel Statistics MCP",
+      "url": "https://github.com/reuvenaor/israel-statistics-mcp",
+      "description": "CBS data via MCP",
+      "category": "Statistics (CBS)",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 4 · last push 2026-10-07"
+    },
+    {
+      "name": "Israel Stock Symbols & Metadata",
+      "url": "https://huggingface.co/datasets/kjhq/Israel-Stock-Symbols-and-Metadata",
+      "description": "Symbols and metadata for TASE-listed companies",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "israel-weather-rs",
+      "url": "https://github.com/barakplasma/israel-weather-rs",
+      "description": "Rust parser turning IMS forecast XML into structs and JSON",
+      "category": "Weather & Climate",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 9 · last push 2026-10-15"
+    },
+    {
+      "name": "Israeli AI Tools & Ecosystem",
+      "url": "https://github.com/danielrosehill/Israeli-AI-Tools-And-Ecosystem",
+      "description": "AI-native projects: agents, agent skills, MCP servers, Hebrew-language resources, communities, ecosystem map.",
+      "category": "Contributing",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Not checked"
+    },
+    {
+      "name": "Israeli Bank MCP",
+      "url": "https://github.com/mottibec/israeli-bank-mcp",
+      "description": "Israeli bank MCP server",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 37 · last push 2026-05-02"
+    },
+    {
+      "name": "Israeli Bank Scrapers",
+      "url": "https://github.com/eshaham/israeli-bank-scrapers",
+      "description": "Canonical Israeli bank scrapers (banks + cards)",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1150 · last push 2026-10-17"
+    },
+    {
+      "name": "Israeli Bank Scrapers Desktop",
+      "url": "https://github.com/baruchiro/israeli-bank-scrapers-desktop",
+      "description": "Desktop app fetching Israeli bank and card transactions",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 44 · last push 2021-03-07 · archived"
+    },
+    {
+      "name": "Israeli Bank Scrapers Modern Schemas",
+      "url": "https://github.com/Urigo/israeli-bank-scrapers-modern-schemas",
+      "description": "Modern Bank Hapoalim schemas",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 20 · last push 2026-05-02"
+    },
+    {
+      "name": "Israeli Bank Scrapers → Actual Budget",
+      "url": "https://github.com/sergienko4/israeli-bank-scrapers-to-actual-budget",
+      "description": "Bank scrapers → Actual Budget",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 8 · last push 2026-10-17"
+    },
+    {
+      "name": "Israeli Banks SimpleFIN Bridge",
+      "url": "https://github.com/tomerh2001/israeli-banks-simplefin-bridge",
+      "description": "SimpleFIN bridge feeding Israeli bank data into budgeting apps",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 1 · last push 2026-10-16"
+    },
+    {
+      "name": "Israeli Banks → Actual Budget Importer",
+      "url": "https://github.com/tomerh2001/israeli-banks-actual-budget-importer",
+      "description": "Actual Budget importer",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 14 · last push 2026-10-15"
+    },
+    {
+      "name": "Israeli CBS MCP",
+      "url": "https://github.com/amirrosi/israeli-cbs-mcp",
+      "description": "Israeli CBS data MCP server",
+      "category": "Statistics (CBS)",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2025-11-24"
+    },
+    {
+      "name": "Israeli Cities and Streets List",
+      "url": "https://github.com/GabMic/israeli-cities-and-streets-list",
+      "description": "JSON list of every Israeli city and street name",
+      "category": "Geospatial & Land",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 17 · last push 2026-06-04"
+    },
+    {
+      "name": "Israeli Elections Analyzer",
+      "url": "https://github.com/amiram/Elections",
+      "description": "Knesset election results by ballot box and locality",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 22 · last push 2023-02-22"
+    },
+    {
+      "name": "Israeli Finance Scraper",
+      "url": "https://github.com/orzarchi/israeli-finance-scraper",
+      "description": "Israeli finance scraper",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-04-04"
+    },
+    {
+      "name": "Israeli Mortgage Calculator",
+      "url": "https://github.com/aaron-a-d/israeli-mortgage-calculator",
+      "description": "Israeli mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2024-01-01"
+    },
+    {
+      "name": "Israeli Open Source Projects",
+      "url": "https://github.com/danielrosehill/Israeli-Open-Source-Projects",
+      "description": "Wider index of Israeli open-source projects — civic tech, finance, careers, real estate, smart home, media.",
+      "category": "Contributing",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 4 · last push 2026-05-06"
+    },
+    {
+      "name": "Israeli Supermarket Data",
+      "url": "https://github.com/AKorets/israeli-supermarket-data",
+      "description": "Collected supermarket price-transparency data",
+      "category": "Supermarket Prices",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 9 · last push 2023-08-17"
+    },
+    {
+      "name": "Israeli Supermarket Parsers",
+      "url": "https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-parsers",
+      "description": "Parsers for Israeli supermarket price data",
+      "category": "Supermarket Prices",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 10 · last push 2026-10-16"
+    },
+    {
+      "name": "Israeli Supermarket Scrapers",
+      "url": "https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-scarpers",
+      "description": "Scrapers for Israeli supermarket price data",
+      "category": "Supermarket Prices",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 43 · last push 2026-10-16"
+    },
+    {
+      "name": "Israeli YNAB Updater",
+      "url": "https://github.com/eshaham/israeli-ynab-updater",
+      "description": "YNAB updater for Israeli accounts",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 58 · last push 2024-07-14"
+    },
+    {
+      "name": "Israstat Explorer",
+      "url": "https://github.com/romanzarkhin/israstat-explorer",
+      "description": "Israeli statistics explorer",
+      "category": "Statistics (CBS)",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-02-22"
+    },
+    {
+      "name": "Jerusalem DataCity (CKAN)",
+      "url": "https://jerusalem.datacity.org.il/api/3/action/package_list",
+      "description": "Jerusalem municipal datasets on Hasadna's DataCity platform",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned package list. opendata.jerusalem.muni.il did not respond."
+    },
+    {
+      "name": "Jerusalem Emergency Shelters (Sep 2025)",
+      "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Emergency-Shelters-0925",
+      "description": "Jerusalem public shelter locations, September 2025",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "JLM Shelters Data",
+      "url": "https://github.com/danielrosehill/jlm-shelters-data",
+      "description": "Community dataset of Jerusalem public bomb shelters (jlmshelters.com)",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 0 · last push 2026-02-20"
+    },
+    {
+      "name": "Knesset Committees PM",
+      "url": "https://github.com/zomer-g/Knesset_Committees_PM",
+      "description": "Knesset committees project management data",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-03-21"
+    },
+    {
+      "name": "Knesset Corpus",
+      "url": "https://github.com/HaifaCLG/KnessetCorpus",
+      "description": "Annotated corpus of Knesset committee and plenum protocols",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 2 · last push 2023-11-02"
+    },
+    {
+      "name": "Knesset Data Pipelines",
+      "url": "https://github.com/hasadna/knesset-data-pipelines",
+      "description": "Open Knesset's main scrapers and processing pipelines",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 20 · last push 2026-03-25"
+    },
+    {
+      "name": "Knesset Data Vote",
+      "url": "https://github.com/moshelati/knesset-data-vote",
+      "description": "Knesset voting data",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-02-22"
+    },
+    {
+      "name": "Knesset MCP",
+      "url": "https://github.com/zohar/knesset-mcp",
+      "description": "MCP server over the Knesset OData API",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 3 · last push 2026-04-21"
+    },
+    {
+      "name": "Knesset OData API (v4)",
+      "url": "https://knesset.gov.il/OdataV4/ParliamentInfo/KNS_KnessetDates?$top=1",
+      "description": "Knesset KNS_* tables (MKs, bills, committees, votes), JSON",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned JSON. v3 service document at /Odata/ParliamentInfo.svc/. Docs page is bot-protected."
+    },
+    {
+      "name": "Knesset Open Data (JSONL)",
+      "url": "https://huggingface.co/datasets/ZeAlenu/knesset-data",
+      "description": "Knesset OData API tables exported to sharded JSONL, CC-BY-SA",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Knesset Plenum Recordings",
+      "url": "https://huggingface.co/datasets/ivrit-ai/knesset-plenums",
+      "description": "Plenum audio/video aligned with official protocols (ivrit.ai)",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset). gated (auto-approve)."
+    },
+    {
+      "name": "Knesset Proceedings Corpus",
+      "url": "https://huggingface.co/datasets/HaifaCLGroup/KnessetCorpus",
+      "description": "Annotated Knesset plenum and committee protocols with metadata",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Knesset Refactor",
+      "url": "https://github.com/AT020993/knesset_refactor",
+      "description": "Knesset (parliament) data refactor",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "REMOVED from index — 404 on 2026-10-17 (owner exists, repo gone)"
+    },
+    {
+      "name": "knesset-data-python",
+      "url": "https://github.com/hasadna/knesset-data-python",
+      "description": "Python module for API access to Knesset data",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 2 · last push 2025-09-06"
+    },
+    {
+      "name": "Knessy",
+      "url": "https://github.com/amnir/knessy",
+      "description": "Knesset data utility",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-04-08"
+    },
+    {
+      "name": "Land Cover Classification",
+      "url": "https://github.com/DeanZigdon/land_cover_classification",
+      "description": "Land cover classification (Israel)",
+      "category": "Energy & Environment",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2025-11-10"
+    },
+    {
+      "name": "Land Hunter",
+      "url": "https://github.com/bengurevich1danyel/land-hunter",
+      "description": "Parcel tracking, plan monitoring, spatial",
+      "category": "Geospatial & Land",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-04-11"
+    },
+    {
+      "name": "Mashkanta",
+      "url": "https://github.com/ndor/mashkanta",
+      "description": "Israeli mortgage optimisation",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-06"
+    },
+    {
+      "name": "Mashkanta (RGproj)",
+      "url": "https://github.com/RGproj/Mashkanta",
+      "description": "Israeli mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-26"
+    },
+    {
+      "name": "Mashkanta 2",
+      "url": "https://github.com/amitre/Mashkanta2",
+      "description": "Israeli mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-10-12"
+    },
+    {
+      "name": "Mashkanta Pro",
+      "url": "https://github.com/tuvalgueta/Mashkanta-Pro",
+      "description": "Israeli mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-04-11"
+    },
+    {
+      "name": "MashkantaAI",
+      "url": "https://github.com/Baruchhanya/MashkantaAI",
+      "description": "AI-assisted mortgage tool",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-25"
+    },
+    {
+      "name": "Midaat LaAm / odata.org.il (CKAN)",
+      "url": "https://www.odata.org.il/api/3/action/organization_list",
+      "description": "Civil-society CKAN of FOI and NGO-sourced public data",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned organisation list. Not a government portal."
+    },
+    {
+      "name": "Migdal Garage Project",
+      "url": "https://github.com/rachelbak/MigdalGarageProject",
+      "description": "Migdal Garage project",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-12-07"
+    },
+    {
+      "name": "Miklat MCP Data",
+      "url": "https://github.com/danielrosehill/Miklat-MCP-Data",
+      "description": "Data pipeline for the Miklat (shelters) MCP server",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 0 · last push 2026-05-06"
+    },
+    {
+      "name": "Ministry of Health data dashboard",
+      "url": "https://datadashboard.health.gov.il/portal/dashboard/corona",
+      "description": "MoH dashboards (corona and others)",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "SPA loads; /api/* returns a block page to headless clients."
+    },
+    {
+      "name": "Ministry of Transport GTFS",
+      "url": "https://gtfs.mot.gov.il/gtfsfiles/",
+      "description": "National static GTFS feed plus tariff and zone files",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Directory listing returned with files dated 2026-10-16/17. Main file israel-public-transportation.zip."
+    },
+    {
+      "name": "Ministry of Transport SIRI (real-time)",
+      "url": "https://www.gov.il/he/Departments/General/real_time_information_siri",
+      "description": "Real-time bus arrivals, SIRI Stop Monitoring; registration required",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "gov.il page is Cloudflare 403 to headless clients; service URL not confirmed. Community docs: hasadna/open-bus wiki."
+    },
+    {
+      "name": "MoEP air quality (Envista) API",
+      "url": "https://air-api.sviva.gov.il/v1/envista/stations",
+      "description": "Air-monitoring stations and readings; token required",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returns 'Unauthorized' without token. Portal air.sviva.gov.il loads."
+    },
+    {
+      "name": "Moneyman",
+      "url": "https://github.com/daniel-hauser/moneyman",
+      "description": "Bank-scrape aggregator with pluggable storage",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 107 · last push 2026-10-17"
+    },
+    {
+      "name": "Mortgage Calculator Site",
+      "url": "https://github.com/oados112/mortgage-calculator-site",
+      "description": "Mortgage calculator site",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-31"
+    },
+    {
+      "name": "MyMortgage",
+      "url": "https://github.com/noybi642-yarin/MyMortgage",
+      "description": "Mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-19"
+    },
+    {
+      "name": "Nadlan MCP",
+      "url": "https://github.com/nitzpo/nadlan-mcp",
+      "description": "MCP server for nadlan.gov.il",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 4 · last push 2025-12-08"
+    },
+    {
+      "name": "Nadlan Skill",
+      "url": "https://github.com/IsraelZablianov/nadlan-skill",
+      "description": "Wraps nadlan.gov.il transaction history",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 7 · last push 2026-03-29"
+    },
+    {
+      "name": "Nadlan.gov.il",
+      "url": "https://www.nadlan.gov.il/",
+      "description": "Israeli real-estate transactions — no official API; community wrappers exist (see Nadlan repos above)",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "No official API; community wrappers listed under Real Estate."
+    },
+    {
+      "name": "NadlanAI",
+      "url": "https://github.com/Exitiumverum/NadlanAI",
+      "description": "Nadlan AI tool",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2025-04-25"
+    },
+    {
+      "name": "NextTrain Israel Tooling",
+      "url": "https://github.com/sergenes/next-train-israel-tooling",
+      "description": "SQLite database of Israel Railways timetable data and build tooling",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 1 · last push 2024-01-02"
+    },
+    {
+      "name": "Noga (Israel ISO) consumption data",
+      "url": "https://www.noga-iso.co.il/en/statistics/annual-hourly-consumption-data/",
+      "description": "Annual and hourly national electricity consumption downloads",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Page loads; downloads only, no API seen."
+    },
+    {
+      "name": "Nudlers",
+      "url": "https://github.com/enudler/nudlers",
+      "description": "Personal finance (scope unclear)",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 27 · last push 2026-10-09"
+    },
+    {
+      "name": "Ocal",
+      "url": "https://github.com/zomer-g/ocal",
+      "description": "Open calendar / civic data",
+      "category": "Civic & General",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-07-31"
+    },
+    {
+      "name": "Open Budget SQL API",
+      "url": "https://next.obudget.org/api/query?query=select%20count(*)%20from%20budget",
+      "description": "State budget, procurement and supports via SQL query, JSON/CSV",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned count. Run by Hasadna on government data."
+    },
+    {
+      "name": "Open Bus",
+      "url": "https://github.com/hasadna/open-bus",
+      "description": "Hasadna's original analysis of Israel's public transport data",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 112 · last push 2022-12-09"
+    },
+    {
+      "name": "Open Bus Map Search",
+      "url": "https://github.com/hasadna/open-bus-map-search",
+      "description": "Hasadna site showing Israeli bus performance, gaps and routes from SIRI/GTFS data",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 98 · last push 2026-10-17"
+    },
+    {
+      "name": "Open Bus Pipelines",
+      "url": "https://github.com/hasadna/open-bus-pipelines",
+      "description": "Airflow pipelines collecting Israeli bus SIRI/GTFS data for Stride",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 11 · last push 2026-09-06"
+    },
+    {
+      "name": "Open Bus Stride API",
+      "url": "https://github.com/hasadna/open-bus-stride-api",
+      "description": "REST API serving Stride's historical Israeli public-transport data",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 8 · last push 2026-08-06"
+    },
+    {
+      "name": "Open Bus Stride API (Hasadna)",
+      "url": "https://open-bus-stride-api.hasadna.org.il/docs",
+      "description": "Historical SIRI + GTFS archive with REST API (NGO-run)",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned JSON. Fills the gap that the government feed keeps no history."
+    },
+    {
+      "name": "Open Bus Stride Client",
+      "url": "https://github.com/hasadna/open-bus-stride-client",
+      "description": "Python client and notebooks for the Stride bus-data API",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 10 · last push 2024-07-10"
+    },
+    {
+      "name": "Open Israeli Law",
+      "url": "https://huggingface.co/datasets/gkour/israeli_law",
+      "description": "Statutes, regulations and orders from Hebrew Wikisource",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "Open Pension",
+      "url": "https://github.com/hasadna/open_pension",
+      "description": "Parses and exposes Israeli pension-fund holdings",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 17 · last push 2024-10-24"
+    },
+    {
+      "name": "OpenLaw Bot",
+      "url": "https://github.com/hasadna/openlaw-bot",
+      "description": "Hasadna bot maintaining an up-to-date open book of Israeli laws",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 12 · last push 2024-11-03"
+    },
+    {
+      "name": "OpenMuni Budgets",
+      "url": "https://github.com/hasadna/openmuni-budgets",
+      "description": "Web app and API for comparing Israeli municipal budgets",
+      "category": "Budget & Public Spending",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 15 · last push 2014-12-10 · fork"
+    },
+    {
+      "name": "OpenTrain Community",
+      "url": "https://github.com/hasadna/OpenTrainCommunity",
+      "description": "Community analysis of Israel Railways train delay data",
+      "category": "Transport & Aviation",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 25 · last push 2023-01-13"
+    },
+    {
+      "name": "Oref Alert (Home Assistant)",
+      "url": "https://github.com/amitfin/oref_alert",
+      "description": "Home Assistant integration for Pikud HaOref alerts",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 211 · last push 2026-10-12"
+    },
+    {
+      "name": "Oref Alerts Proxy",
+      "url": "https://github.com/dmatik/oref-alerts-proxy-ms",
+      "description": "Spring Boot microservice proxying Pikud HaOref alerts",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 17 · last push 2025-06-22"
+    },
+    {
+      "name": "Pikud HaOref alert history",
+      "url": "https://alerts-history.oref.org.il/Shared/Ajax/GetAlarmsHistory.aspx?lang=he&mode=3",
+      "description": "Historical alerts by locality, JSON",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned alerts. Undocumented."
+    },
+    {
+      "name": "Pikud HaOref GraphQL API",
+      "url": "https://github.com/TuvalSimha/pikud-haoref-api-graphql",
+      "description": "GraphQL API over Pikud HaOref alert history",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 5 · last push 2026-03-30"
+    },
+    {
+      "name": "Pikud HaOref live alerts",
+      "url": "https://www.oref.org.il/WarningMessages/alert/alerts.json",
+      "description": "Home Front Command current-alert JSON",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "200 (empty when no alerts). Undocumented; needs a Referer header."
+    },
+    {
+      "name": "pikud-haoref-api",
+      "url": "https://github.com/eladnava/pikud-haoref-api",
+      "description": "Node.js wrapper for Pikud HaOref's unofficial alert API",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 125 · last push 2026-10-07"
+    },
+    {
+      "name": "PricyAPI",
+      "url": "https://github.com/tomereliel0/PricyAPI",
+      "description": "Price-data API",
+      "category": "Supermarket Prices",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-03-14"
+    },
+    {
+      "name": "py-weatheril",
+      "url": "https://github.com/t0mer/py-weatheril",
+      "description": "Python wrapper for IMS current weather, forecasts and radar",
+      "category": "Weather & Climate",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 15 · last push 2026-09-29"
+    },
+    {
+      "name": "python-red-alert",
+      "url": "https://github.com/Zontex/python-red-alert",
+      "description": "Python client for the Pikud HaOref alert API",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 68 · last push 2023-05-11"
+    },
+    {
+      "name": "QGIS Israeli Open Data",
+      "url": "https://github.com/KaplanOpenSource/qgis-open-data",
+      "description": "QGIS plugin adding Israeli open spatial data layers",
+      "category": "Geospatial & Land",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 8 · last push 2021-05-08"
+    },
+    {
+      "name": "Real-Estate Prediction ML",
+      "url": "https://github.com/mosegorge/Real-estate-prediction-machine-learning",
+      "description": "Real-estate price prediction ML",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2021-01-14"
+    },
+    {
+      "name": "Redalert (MQTT)",
+      "url": "https://github.com/t0mer/Redalert",
+      "description": "Red alert monitor publishing Pikud HaOref alerts to MQTT",
+      "category": "Public Safety & Civil Defence",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 23 · last push 2026-09-29"
+    },
+    {
+      "name": "Rent or Buy",
+      "url": "https://github.com/erezs1234/rent-or-buy",
+      "description": "Hebrew rent-vs-mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-22"
+    },
+    {
+      "name": "Reshumot (official gazette)",
+      "url": "https://reshumot.justice.gov.il/",
+      "description": "Ministry of Justice official publications",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Site loads; no public API found."
+    },
+    {
+      "name": "Sayeret Calculator",
+      "url": "https://github.com/roy-aniccai/Sayeret-Calculator",
+      "description": "Mortgage qualification calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2026-03-09"
+    },
+    {
+      "name": "Scipio",
+      "url": "https://github.com/t0mer/scipio",
+      "description": "Self-hosted REST API around israeli-bank-scrapers",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 6 · last push 2026-09-29"
+    },
+    {
+      "name": "ShekelSync",
+      "url": "https://github.com/AvnerAdda/shekelsync",
+      "description": "Electron desktop finance tracker",
+      "category": "Banking & Personal Finance",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 4 · last push 2026-10-05"
+    },
+    {
+      "name": "Skills-IL Government Services",
+      "url": "https://github.com/skills-il/government-services",
+      "description": "Israeli government services skills",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 12 · last push 2026-10-08"
+    },
+    {
+      "name": "Skills-IL MCPs",
+      "url": "https://github.com/skills-il/mcps",
+      "description": "MCP servers for Israeli data sources",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 6 · last push 2026-07-21"
+    },
+    {
+      "name": "Skills-IL Tax & Finance",
+      "url": "https://github.com/skills-il/tax-and-finance",
+      "description": "Israeli tax & finance skills (mas rechisha etc.)",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 36 · last push 2026-10-12"
+    },
+    {
+      "name": "Smart Mortgage Calculator",
+      "url": "https://github.com/NISANH66/Smart-Mortgage-Calculator",
+      "description": "Smart mortgage calculator",
+      "category": "Mortgages & Housing Calculators",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 0 · last push 2025-07-22"
+    },
+    {
+      "name": "Supreme Court",
+      "url": "https://github.com/zomer-g/Supreme-Court",
+      "description": "Israeli Supreme Court data",
+      "category": "Knesset, Elections & Judicial",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-03-21"
+    },
+    {
+      "name": "Supreme Court of Israel Verdicts",
+      "url": "https://huggingface.co/datasets/LevMuchnik/SupremeCourtOfIsrael",
+      "description": "2022 snapshot of Supreme Court public verdicts with metadata",
+      "category": "Datasets on Hugging Face",
+      "kind": "dataset",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live (public dataset)."
+    },
+    {
+      "name": "TASE Data Hub",
+      "url": "https://datahub.tase.co.il/",
+      "description": "Tel Aviv Stock Exchange market-data API (API key; some free endpoints)",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Redirects to TASE data-services page; endpoint paths not confirmed."
+    },
+    {
+      "name": "Tel Aviv GIS (ArcGIS REST)",
+      "url": "https://gisn.tel-aviv.gov.il/arcgis/rest/services/IView2/MapServer?f=json",
+      "description": "Municipal GIS layers (IView2 MapServer)",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Returned ~62 KB layer metadata."
+    },
+    {
+      "name": "Tel Aviv-Yafo Open Data",
+      "url": "https://opendata.tel-aviv.gov.il/",
+      "description": "Municipal open-data catalogue; managed APIs need a developer key",
+      "category": "APIs",
+      "kind": "api",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "SPA loads. Developer API portal did not respond."
+    },
+    {
+      "name": "UP360 MCP",
+      "url": "https://github.com/eliko86/up360mcp",
+      "description": "UP360 MCP server",
+      "category": "Government & data.gov.il tooling",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 1 · last push 2026-03-25"
+    },
+    {
+      "name": "Urban Guardian MCP",
+      "url": "https://github.com/GaryShnol/urban-guardian-mcp",
+      "description": "Urban / civic MCP (zoning, permits)",
+      "category": "Civic & General",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 2 · last push 2026-01-31"
+    },
+    {
+      "name": "WAQI Stations Israel",
+      "url": "https://github.com/danielrosehill/WAQI-Stations-Israel",
+      "description": "Static snapshot of WAQI air-quality reporting points in Israel",
+      "category": "Energy & Environment",
+      "kind": "repo",
+      "source": "Claude Opus 5.5 (research pass, 2026-10-17)",
+      "findings": "Live. ★ 0 · last push 2025-05-01"
+    },
+    {
+      "name": "Yad2 Clipboard",
+      "url": "https://github.com/dplesh/yad2clipboard",
+      "description": "Copy Yad2 nadlan post to clipboard",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 4 · last push 2021-06-16"
+    },
+    {
+      "name": "Yad2 Listings",
+      "url": "https://github.com/TamirMa/yad2listings",
+      "description": "Yad2 listings on a graph",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 73 · last push 2025-03-12"
+    },
+    {
+      "name": "Yad2 RSS",
+      "url": "https://github.com/almog/yad2",
+      "description": "RSS feed over yad2.co.il",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Not checked"
+    },
+    {
+      "name": "Yad2 Scraper",
+      "url": "https://github.com/NivEz/yad2-scraper",
+      "description": "Yad2 listings scraper",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "Live. ★ 21 · last push 2026-10-16"
+    },
+    {
+      "name": "Yad2 Semantic Search",
+      "url": "https://github.com/poovarasan011/yad2-semantic-search",
+      "description": "Semantic search over Yad2 listings",
+      "category": "Real Estate — Nadlan, Yad2, Madlan",
+      "kind": "repo",
+      "source": "Daniel Rosehill (initial index)",
+      "findings": "REMOVED from index — 404 on 2026-10-17 (owner account deleted)"
+    }
+  ]
+}
