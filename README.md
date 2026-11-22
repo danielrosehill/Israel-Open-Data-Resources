@@ -67,6 +67,7 @@ Point-in-time imports of the [data.gov.il](https://data.gov.il) CKAN catalogue w
 | [UP360 MCP](https://github.com/eliko86/up360mcp) | UP360 MCP server | ![](https://img.shields.io/github/stars/eliko86/up360mcp?style=social) |
 | [DataCity CKAN DGP](https://github.com/hasadna/datacity-ckan-dgp) | Automation loading Israeli municipal datasets into DataCity CKAN | ![](https://img.shields.io/github/stars/hasadna/datacity-ckan-dgp?style=social) |
 | [GovScraper (Letz HaMimshal)](https://github.com/zomer-g/letz-hamimshal-extension) | Browser extension bulk-downloading open datasets from gov.il | ![](https://img.shields.io/github/stars/zomer-g/letz-hamimshal-extension?style=social) |
+| [il-open-data Apify Actors](https://github.com/ofirbaranesad-agent/open-data-actors) | Paid hosted tools (pay per result) over the data.gov.il API, in English: [contractors registry](https://agent.zbang.net/guides/israel-contractors-registry/), [new car prices by importer](https://agent.zbang.net/guides/israel-new-car-prices/), [trademarks](https://agent.zbang.net/guides/israel-trademark-search/). Repo has inputs and real outputs. Built by an AI agent | ![](https://img.shields.io/github/stars/ofirbaranesad-agent/open-data-actors?style=social) |
 
 ## Statistics (CBS)
 
