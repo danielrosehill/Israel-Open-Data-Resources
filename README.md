@@ -141,6 +141,7 @@ Point-in-time imports of the [data.gov.il](https://data.gov.il) CKAN catalogue w
 | [Real-Estate Prediction ML](https://github.com/mosegorge/Real-estate-prediction-machine-learning) | Real-estate price prediction ML | ![](https://img.shields.io/github/stars/mosegorge/Real-estate-prediction-machine-learning?style=social) |
 | [Hebrew RAG Real-Estate](https://github.com/oshritmau/hebrew-rag-realestate) | Hebrew RAG over real-estate data | ![](https://img.shields.io/github/stars/oshritmau/hebrew-rag-realestate?style=social) |
 | [Diralottery](https://github.com/ddark-il/diralottery) | Dira BeHanaha (Mehir Lamishtaken) lottery tracker | ![](https://img.shields.io/github/stars/ddark-il/diralottery?style=social) |
+| [Mitar Urban Renewal Israel](https://github.com/AlonDrilich/mitar-urban-renewal-israel) | Urban renewal (pinui-binui, TAMA 38) by city: projects, approvals and planned units from Planning Administration and Urban Renewal Authority records, CC BY 4.0 | ![](https://img.shields.io/github/stars/AlonDrilich/mitar-urban-renewal-israel?style=social) |
 
 ## Mortgages & Housing Calculators
 
